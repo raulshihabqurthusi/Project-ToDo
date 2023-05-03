@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Code/Android Studio/Project-ToDo/hacktiv8-project-1/app/src/main/res/layout/activity_main.xml" value="0.13148148148148148" />
+        <entry key="..\:/Code/Android Studio/Project-ToDo/hacktiv8-project-1/app/src/main/res/layout/activity_view.xml" value="0.25677083333333334" />
+        <entry key="..\:/Code/Android Studio/Project-ToDo/hacktiv8-project-1/app/src/main/res/layout/row_item.xml" value="0.25677083333333334" />
+        <entry key="..\:/GITHUB CLONE/hacktiv8-project-1/app/src/main/res/layout/activity_main.xml" value="0.25104166666666666" />
+        <entry key="..\:/GITHUB CLONE/hacktiv8-project-1/app/src/main/res/layout/activity_view.xml" value="0.25104166666666666" />
+        <entry key="..\:/Users/danuf/AndroidStudioProjects/ProjectToDo/app/src/main/res/drawable/background_button.xml" value="0.18" />
+        <entry key="..\:/Users/danuf/AndroidStudioProjects/ProjectToDo/app/src/main/res/drawable/ic_icon_add.xml" value="0.1815" />
+        <entry key="..\:/Users/danuf/AndroidStudioProjects/ProjectToDo/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1815" />
+        <entry key="..\:/Users/danuf/AndroidStudioProjects/ProjectToDo/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/danuf/AndroidStudioProjects/ProjectToDo/app/src/main/res/layout/activity_view.xml" value="0.264" />
+        <entry key="..\:/Users/danuf/AndroidStudioProjects/ProjectToDo/app/src/main/res/layout/row_item.xml" value="0.536" />
+        <entry key="..\:/Vio/msib/finpro/finpro1/hacktiv8-project-1/app/src/main/res/drawable/edit_text_border.xml" value="0.19" />
+        <entry key="..\:/Vio/msib/finpro/finpro1/hacktiv8-project-1/app/src/main/res/drawable/ic_clean.xml" value="0.19" />
+        <entry key="..\:/Vio/msib/finpro/finpro1/hacktiv8-project-1/app/src/main/res/drawable/ic_icon_add.xml" value="0.19" />
+        <entry key="..\:/Vio/msib/finpro/finpro1/hacktiv8-project-1/app/src/main/res/layout/activity_main.xml" value="0.16485507246376813" />
+        <entry key="..\:/Vio/msib/finpro/finpro1/hacktiv8-project-1/app/src/main/res/layout/activity_view.xml" value="0.16485507246376813" />
+        <entry key="..\:/Vio/msib/finpro/finpro1/hacktiv8-project-1/app/src/main/res/layout/row_item.xml" value="0.16485507246376813" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
